@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1429738194"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq &quot;-FiC:\Users\imouy\Desktop\Playground\FreePascal - Playground\REST-API\lib\x86_64-win64&quot; &quot;-FuC:\Users\imouy\Desktop\Playground\FreePascal - Playground\REST-API\&quot; &quot;-FUC:\Users\imouy\Desktop\Playground\FreePascal - Playground\REST-API\lib\x86_64-win64\&quot; &quot;-FEC:\Users\imouy\Desktop\Playground\FreePascal - Playground\REST-API\&quot; &quot;-oC:\Users\imouy\Desktop\Playground\FreePascal - Playground\REST-API\FreePascalAPI.exe&quot; FreePascalAPI.lpr"/>
+</CONFIG>
